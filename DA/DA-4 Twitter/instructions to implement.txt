@@ -1,0 +1,2 @@
+1. Run this assgn on google colab (nltk not installing in jupyter)
+2. Upload dataset in colab in files section
